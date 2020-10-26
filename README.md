@@ -1,5 +1,7 @@
 # DiscordBot
 
+#There is an error: I will fix it later. Oops...
+
 A easy and basic discord bot. (New Commands coming soon!)
 
 # Install instructions: 
