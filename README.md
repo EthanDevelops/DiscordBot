@@ -8,7 +8,7 @@ First, make sure you have node.js, npm, and git installed.
 
 Next, run git clone https://github.com/EthanDevelops/DiscordBot.git
 
-Then run npm install or nmp install discord.js
+Then run npm install or npm install discord.js
 
 Then, edit the config.json file with your favorite text editor, and edit the token value like this: 
 (make sure to get rid of |YOUR BOT TOKEN HERE| and replace it with your bot token.):
