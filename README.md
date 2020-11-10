@@ -1,5 +1,7 @@
 # DiscordBot
 
+# There is an error: I will fix it later. Oops...
+
 A easy and basic discord bot. (New Commands coming soon!)
 
 # Install instructions: 
@@ -8,9 +10,12 @@ First, make sure you have node.js, npm, and git installed.
 
 Next, run git clone https://github.com/EthanDevelops/DiscordBot.git
 
-Then run npm install or nmp install discord.js
+Then do cd DiscordBot
 
-Then, edit the config.json file with your favorite text editor, and edit the token value like this:
+Then run npm install or npm install discord.js
+
+Then, edit the config.json file with your favorite text editor, and edit the token value like this: 
+(make sure to get rid of |YOUR BOT TOKEN HERE| and replace it with your bot token.):
 
 "token": "|YOUR BOT TOKEN HERE|"
 
